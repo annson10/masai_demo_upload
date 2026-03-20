@@ -1,0 +1,1 @@
+select * from orders_flat where quantity=2
